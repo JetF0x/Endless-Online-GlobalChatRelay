@@ -27,8 +27,8 @@ This script uses Frida to hook into the global chat functionality of the game En
 
 ## Usage
 
-1. Save the script as a Python file (e.g., `eo_chat_to_discord.py`).
-2. Run the script: `python eo_chat_to_discord.py`
+1. Save the script as a Python file (e.g., `Main.py`).
+2. Run the script: `python Main.py`
 3. Launch Endless Online.
 
 ## Disclaimer
